@@ -32,7 +32,7 @@ You will use Express to handle routing. Make sure you deploy your app to Heroku 
 
 1. Your survey should have 10 questions of your choosing. Each answer should be on a scale of 1 to 5 based on how much the user agrees or disagrees with a question.
 
-2. Your `server.js` file should require the basic npm packages we've used in class: `express`, `body-parser` and `path`.
+2. Your `server.js` file should require the basic npm packages we've used in class: `express`, `body-parser` and `path`
 
 3. Your `htmlRoutes.js` file should include two routes:
 
@@ -79,14 +79,5 @@ You will use Express to handle routing. Make sure you deploy your app to Heroku 
 7. Once you've found the current user's most compatible friend, display the result as a modal pop-up.
    * The modal should display both the name and picture of the closest match. 
 
-- - -
 
-### One More Thing
 
-If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.
-
-**Good Luck!**
-
-## Copyright
-
-Coding Boot Camp (C) 2016. All Rights Reserved.
